@@ -7,7 +7,7 @@ Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web 
 DNS (Domain Name System) is a system that translates human-readable domain names into IP addresses, allowing computers to locate resources on the internet.
 
 ### 3. How does Amazon Route 53 work?
-Amazon Route 53 manages the DNS records for our domain, allowing us to associate domain names with resources such as EC2 instances, S3 buckets, and load balancers.
+Amazon Route 53 manages the DNS records for our domain, allowing to associate domain names with resources such as EC2 instances, S3 buckets, and load balancers.
 
 ### 4. What are the types of routing policies in Amazon Route 53?
 Amazon Route 53 offers several routing policies, including Simple, Weighted, Latency, Failover, Geolocation, and Multi-Value.
