@@ -16,10 +16,10 @@ Amazon Route 53 offers several routing policies, including Simple, Weighted, Lat
 The Simple routing policy directs traffic to a single resource, such as an IP address or an Amazon S3 bucket, without any logic or decision-making.
 
 ### 6. How does the Weighted routing policy work in Route 53?
-The Weighted routing policy allows to distribute traffic across multiple resources based on assigned weights. we can control the distribution of traffic based on proportions.
+It allows to distribute traffic across multiple resources based on assigned weights. we can control the distribution of traffic based on proportions.
 
 ### 7. What is the Latency routing policy in Amazon Route 53?
-The Latency routing policy directs traffic to the AWS region with the lowest latency for a given user, improving the user experience by minimizing response times.
+It directs traffic to the AWS region with the lowest latency for a given user, improving the user experience by minimizing response times.
 
 ### 8. How does the Failover routing policy work?
 The Failover routing policy directs traffic to a primary resource and fails over to a secondary resource if the primary resource becomes unavailable.
