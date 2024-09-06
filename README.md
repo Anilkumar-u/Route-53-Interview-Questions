@@ -22,6 +22,9 @@ It allows to distribute traffic across multiple resources based on assigned weig
 It directs traffic to the AWS region with the lowest latency for a given user, improving the user experience by minimizing response times.
 
 ### 8. How does the Failover routing policy work?
+Failover routing lets you route traffic to a resource when the resource is healthy or to a different resource when the first resource is unhealthy. The primary and secondary records can route traffic to anything from an Amazon S3 bucket that is configured as a website to a complex tree of records.
+                                            OR
+
 The Failover routing policy directs traffic to a primary resource and fails over to a secondary resource if the primary resource becomes unavailable.
 
 ### 9. What is the Geolocation routing policy?
